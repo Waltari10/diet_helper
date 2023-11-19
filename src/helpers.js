@@ -9,7 +9,7 @@ export function capitalizeFirstLetter(string) {
 // to turn the other string into the other
 // https://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm
 
-// getEditDistance('taro', 'papri')
+// / getEditDistance('taro', 'papri')
 
 export function getEditDistance(s, t) {
   const n = s.length
